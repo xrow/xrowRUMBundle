@@ -1,0 +1,7 @@
+parameters:
+#    xrow_rum.example.class: xrow\RUMBundle\Example
+
+services:
+#    xrow_rum.example:
+#        class: %xrow_rum.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
